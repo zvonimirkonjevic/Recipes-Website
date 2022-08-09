@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+    background: linear-gradient(45deg, #f286a0 0%, #fdc588 100%);
+}
+
+.main-title{
+    text-align: center;
+}
+
+.side-text{
+    text-align: center;
+}
