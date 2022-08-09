@@ -1,0 +1,18 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(45deg, #ffd6fe 0%, rgba(225, 5, 34, 0) 70%) repeat scroll 0% 0%, linear-gradient(135deg, #e7c6fe 10%, rgba(49, 5, 209, 0) 80%) repeat scroll 0% 0%, linear-gradient(225deg, #c8b6fe 10%, rgba(10, 219, 216, 0) 80%) repeat scroll 0% 0%, rgba(0, 0, 0, 0) linear-gradient(315deg, #b8c0fe 100%, rgba(9, 245, 5, 0) 70%) repeat scroll 0% 0%;
+}
+
+.main-title{
+    color: seashell;
+    text-align: center;
+}
+
+.side-text{
+    color: seashell;
+    text-align: center;
+}
+
+.main-text{
+    color: seashell;
+}
